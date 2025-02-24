@@ -1,1 +1,1 @@
-# __init__.py - Placeholder
+# This file makes the tests directory a package.
